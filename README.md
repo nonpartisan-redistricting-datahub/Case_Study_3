@@ -1,4 +1,4 @@
-# Case Study Helping a Redistricting Organization Get the Data They Need to Draw and Analyze Proposed Plans
+# Case Study: Combining Election Results with Precinct Boundaries to Draw and Analyze Proposed Redistricting Plans
 
 This is the code that accompanies the Case Study of our aggregation data work with Maine Votes. 
 
