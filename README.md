@@ -11,6 +11,7 @@ You can find a write up of that Case Study on our website [redistrictingdatahub.
 - [VEST 2018 Precinct Boundary and Election Results](https://redistrictingdatahub.org/dataset/vest-2018-maine-precinct-and-election-results/)
 - Mapping from Precinct to Town for 2018 and 2020 (by request, email info@redistrictingdatahub.org)
 - 2018 and 2020 ME congressional results (by request, email info@redistrictingdatahub.org)
+- [U.S. Census Cartographic Map](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html) (download "cb_2018_us_state_500k.zip")
 
 
 #### Folder Structure
