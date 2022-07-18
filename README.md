@@ -2,7 +2,7 @@
 
 This is the code that accompanies the Case Study of our aggregation data work with Maine Votes. 
 
-You can find a write up of that Case Study on our website [redistrictingdatahub.org](ADD LINK HERE).
+You can find a write up of that Case Study on our website [redistrictingdatahub.org](https://redistrictingdatahub.org/tools/support/joining-election-results-with-precinct-boundaries-to-analyze-proposed-redistricting-plans/).
 
 ## Getting Started
 
